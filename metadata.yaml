@@ -1,5 +1,8 @@
 _repo: Hacia-una-Moral-sin-Dogmas-Lecciones-sobre-Emerson-y-el-Eticismo_56301
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56301-h/images/cover.jpg
 creator:
   author:
     agent_name: Ingenieros, José
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '47499'
     url: http://www.gutenberg.org/2009/agents/47499
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56301#Hacia-una-Moral-sin-Dogmas-Lecciones-sobre-Emerson-y-el-Eticismo
 gutenberg_issued: '2018-01-04'
 gutenberg_type: Text
 identifiers:
